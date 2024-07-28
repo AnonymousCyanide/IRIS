@@ -1,0 +1,119 @@
+It's pretty clear that "be civil" is a vague rule that can easily vary from person to person.  So this post is here to clarify what we mean by that.  
+
+The following will be incorporated into a wiki page that is linked in Rule 6 (r/tifu/about/rules) for easy reference.
+
+---
+
+In this submission, we affirm that we stand with BLM, LGBTQ+, and other routinely disparaged groups.  Therefore, after consulting with multiple organizations who are active and knowledgeable on these topics, we are further formalizing and clarifying Rule 1.
+
+The purpose of this post is to provide common examples of bigotry upon which we, as r/TIFU moderators, will take action.  Please keep in mind that we will not be debating these topics individually, but you are more than welcome to head to r/socialjustice101 to either ask in good faith about these topics, or, if you are already familiar with them, to educate others.
+
+---
+
+#This list is non-exhaustive, may be updated frequently, and is applicable to moderator discretion
+
+#Racism: 
+* against African Americans or black people in general:
+ * black crime statistics, "black on black violence"
+ * any variation on "despite being 13% of the population, black people commit 50% of the violent crime"  &lt;- this is literally a copypasta/meme created by the white supremacist website, Stormfront.  Variations include:  "13 do 50, 13/50, the 13%, DESPITE" (http://redd.it/s8jns2)
+ * victim blaming especially after rape or death (not exclusive to racism) (examples:  "[x person] should have just cooperated with the police", "she shouldn't have worn that", "well they committed a crime in the past")
+ * referring to black people as animals, specifically apes/monkeys
+ * "what if you said this about black people instead of white people!" or trying to switch races (this is absolutely an apples-to-oranges comparison. Life isn't a chessboard that you can simply rotate the board and have gameplay be effectively the same)
+ * "all lives matter"
+ * dindu nuffin or variations, thugs, "he was a good boy", "he was going to college", joggers, naggers, "people who annoy you"
+ * WE WUZ KANGZ
+ * just posting the letter "N" to start an askouija style attempt to create a slur
+ * "affirmative action is racist against white people"
+ * "black people only get into college due to affirmative action"
+ * "diversity hires"
+ * "racism (systemic or otherwise) doesn't exist"
+ * "upvoted because black"
+ * 3/5 jokes
+ * IQ stats (more affected by general health, nutrition, parents' education level etc than race)
+ * Bix Nood
+ * "never relax"
+ * black lives splatter/Burn Loot Murder
+ * advocating running over protesters (this is also advocating violence, a TOS violation)
+ * "BLM is a terrorist organization"
+ * sarcastically saying "BLM"
+ * stupid comments about "culture"
+ * arguing that white people should be allowed to use the N word
+* antisemitism
+ * global bankers, bankers
+ * oy vey, goyim, the goyim know
+ * hollywood references
+ * 3 parentheses, "echoes"
+ * that comic with the guy rubbing his hands together ("happy merchant")
+ * holocaust denialism
+ * "The Jew cries out in pain as he strikes you"
+ * "people are reading" some particular supremacist book
+* in general, making assumptions about specific people based on racist views about the group or mocking something disparaging about the group as a whole:
+ * Indian people:  "must have been an arranged marriage", "designated shitting streets", "Indian rape culture", "superpower by 2020"
+ * Muslim person in the picture:  "terrorist", "religion of peace", "islam is right about women", "rag head, towel head"
+ * Native American/Indigenous person:  "alcoholic", "smallpox blankets"
+ * Asian people:  "Koreans eat dogs/cats", "china-virus"/"wuhan flu"/"kung flu", "slanty eyes"
+
+#transphobia
+ * "there are only two genders"
+ * "I identify as an attack helicopter" (or anything else patently absurd)
+ * suggesting Michelle Obama is a man
+ * intentionally misgendering a trans person
+ * referring to being trans as a "mental illness"
+ * suicide statistics/"40%"
+ * "transwomen aren't women"/"transmen aren't men"
+ * use of "tranny"/"trap"
+ * decrying children having reassignment surgery (this is already illegal in most countries)
+ * "did you just assume my gender?!"
+ * emphasizing regret after transitioning
+ * use of "biological male" or "biological female".  The term is cis male or cis female.
+ * anything about transitioning to become better at sports, or "men have a biological advantage"
+ * "troon", "mental illness", "groomer", "indoctrinating children", "you'll never be a real woman"
+ * intentionally deadnaming a trans person, which means using their old name over their new one
+
+#sexism 
+ * "women belong in the kitchen"
+ * "the gender pay gap is a myth"
+ * "equal rights and equal lefts"
+ * cunts/sluts/whores/slut-shaming
+ * "upvoted because boobs"
+ * posting that comic which says women have to include themselves in their photos
+ * "don't be such a girl"
+ * "should have kept her/your legs shut" on the topic of abortion, financial issues, or other similar issues
+ * abortion:  "baby killer", "abortion is murder" or conflating abortion with actual murder, "slut"/slut shaming
+ * infantilization:  e.g. referring to a woman/women as "little girl(s)", or other intentionally demeaning and condescending terms
+
+#homophobia
+ * equating pedophilia to homosexuality
+ * f-word/queer/pillow-biter/etc
+ * "bundle of sticks" (Almost no one on reddit is an etymologist.  They're only using this phrase because it's the same origin as the f-word)
+ * puking emoji with no other context than a gay wedding or pride parade etc
+ * "upvoted because gay"
+ * "being gay is a sin"/"see you in hell"
+ * "fake and gay" and otherwise using "gay" as a pejorative or negative
+ * "groomer", "indoctrinating children", "lifestyle", "sin"
+
+#ableism based bigotry 
+ * "you're only good for stump porn"
+ * retarded/aspie/sperg/autistic
+
+#general incivility
+ * this is just basically name-calling or personal attacks aimed at a specific user.  Examples:  "you idiot", "you moron", "you dumbass"
+ * overly sexual comments may be treated this way as well
+ 
+#This list is non-exhaustive, may be updated frequently, and is applicable to moderator discretion
+
+---
+
+Many users have argued that facts cannot be racist, which is true. However, much of what is purported to be factual is actually twisted by inherent racism. For example, the assertion that black people commit more violent crime than white people is false: In fact, black people are arrested/convicted for violent crime more often than white people. The statistic does not represent a fact-based commentary on a racial proclivity; it represents a way in which systemic racism has unfairly maligned a historically marginalized portion of the population.
+
+Furthermore, even objective facts can be presented in a manner that promotes (or is promoted by) a racist agenda. It may be factual to state that a given entertainer is Jewish, for instance, but if that point is being raised as a means of insinuating something anti-Semitic, it is nonetheless an example of bigotry. Statements of this sort are referred to as "dog-whistles;" as coded phrases that are ostensibly based in fact, but which are being presented with bad-faith intentions.
+
+Dog-whistles, implied bigotry, and memetic phrases with bigoted subtexts are all forbidden in /r/tifu.  Please note that there's a different between attacking a disparaged group who cannot change how they were born, and attacking memberships of groups (e.g. saying "ACAB" is not bigotry.  Cops can quit, black people can't stop being black).
+
+Civil criticism of religion, governments, and groups/organizations are fully permitted. Veiled attacks that are instead meant to target and attack a nation/race of people that practice these faiths, is forbidden. 
+
+---
+
+If you don't understand some of the reasons behind these additions, that's ok.  Many people are at different points on their path to education, and everyone should treat it as a process vice a destination.  We encourage users to head over to r/socialjustice101 to either ask about specific points or to explain them to other users if you do understand. We won't be debating these here or in modmail as that's not a debate forum.
+
+Thank you for reading

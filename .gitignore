@@ -1,1 +1,4 @@
-cred.json
+data.json
+temp_dump.json
+__pycache__/
+.vscode/
